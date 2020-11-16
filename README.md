@@ -4,7 +4,7 @@ My bot is supporting Joe Biden!
 <h2> My favorite thread </h2>
 Here is a link: (https://www.reddit.com/r/csci040temp/comments/jnnbfe/widely_shared_photo_of_biden_without_mask_was/gc0ugej?utm_source=share&utm_medium=web2x&context=3)
 Here is a screenshot of the comment I made on this thread:
-!(thread.png)
+![Image](thread.png)
 I like this thread especially because it serves as a microcosm of the entire project. This smaller thread could look like regular comments for an election season! It serves a greater understanding of the polarization within our country and the human-like tendencies of bots. 
 
 ```
