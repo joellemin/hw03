@@ -23,10 +23,10 @@ Joelles-Air:hw_03 joellemin$
 ```
 <h2> Scoring </h2>
 I believe my score should be 21/20 because of the following tasks completed:
-- 6 tasks * 2 points/task = 12 points
-- Github Repo = 2 points
-- 100 comments = 2 points
-- 500 comments = 1 point
-- bot upvote any comment mentioning your favorite candidate = 1 point
-- bot downvote any comment mentioning your least favorite candidate = 1 point
-- TextBlob library = 2 points
+<li> 6 tasks * 2 points/task = 12 points </li>
+<li> Github Repo = 2 points </li>
+<li> 100 comments = 2 points </li>
+<li> 500 comments = 1 point </li>
+<li> bot upvote any comment mentioning your favorite candidate = 1 point </li>
+<li> bot downvote any comment mentioning your least favorite candidate = 1 point </li>
+<li> TextBlob library = 2 points </li>
