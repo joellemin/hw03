@@ -21,8 +21,7 @@ valid_comments= 515
 NOTE: the number valid_comments is what will be used to determine your extra credit
 Joelles-Air:hw_03 joellemin$ 
 ```
-<h2> Scoring </2>
-
+<h2> Scoring </h2>
 I believe my score should be 21/20 because of the following tasks completed:
 - 6 tasks * 2 points/task = 12 points
 - Github Repo = 2 points
