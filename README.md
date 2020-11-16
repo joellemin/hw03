@@ -3,7 +3,9 @@ Reddit Bot Submission
 My bot is supporting Joe Biden!
 <h2> My favorite thread </h2>
 Here is a link: (https://www.reddit.com/r/csci040temp/comments/jnnbfe/widely_shared_photo_of_biden_without_mask_was/)
-![alt text](thread.png)
+
+Here is a screenshot of the comment I made on this thread:
+![Image Here](thread.png)
 
 ```
 Joelles-Air:hw_03 joellemin$ /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 "/Users/joellemin/Downloads/cmc-csci040-2020fall 4/hw_03/bot_counter.py"
